@@ -43,10 +43,10 @@ These animations are combined using the `<set>` tag.
 ## Output
 
 ### Splash Screen
-![Splash Screen](screenshots/splash_screen.png)
+![Splash Screen](app/screenshots/6_1.png)
 
 ### Main Application
-![Main Application](screenshots/main_screen.png)
+![Main Application](app/screenshots/6_2.png)
 
 ## Project Structure
 
